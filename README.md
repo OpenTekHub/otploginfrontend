@@ -1,11 +1,9 @@
-````markdown
 # 🔐 OTP Login Frontend
 
 **otploginfrontend** is a modern web application built using the [Next.js](https://nextjs.org/) framework. It is designed to interact with a FastAPI backend and a PostgreSQL database for secure OTP-based authentication.
 
 > ⚠️ This repository currently contains setup and documentation. Source code will be added soon.
 
----
 
 ## 🚀 Project Overview
 
@@ -20,7 +18,7 @@ This frontend will:
 - Display interactive login flows
 - Follow best practices for responsive and accessible UI
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -28,11 +26,10 @@ This frontend will:
 |----------|---------|----------|
 | Next.js  | FastAPI | PostgreSQL |
 
----
+
 
 ## 📁 Repository Structure
 
-```bash
 otploginfrontend/
 │
 ├── LICENSE
@@ -42,9 +39,7 @@ otploginfrontend/
 ├── components/      # Reusable components (will be added)
 ├── styles/          # Global and module CSS (will be added)
 └── ...
-````
 
----
 
 ## ⚙️ Installation (To be added once code is live)
 
@@ -81,7 +76,6 @@ If you'd like to contribute:
 
 Be sure to keep your changes clean, readable, and focused on one feature or fix at a time.
 
----
 
 ## 📄 License
 
