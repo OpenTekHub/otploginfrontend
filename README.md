@@ -1,7 +1,3 @@
-Here’s the updated `README.md` file **without the Maintainers section** and with a modified **Contributing** section (reworded to be simple without referencing a missing `CONTRIBUTING.md` file):
-
----
-
 ````markdown
 # 🔐 OTP Login Frontend
 
@@ -99,10 +95,8 @@ If you find this project useful, don’t forget to star ⭐ the repo!
 
 ---
 
-```
 
 Let me know if you want this written directly into a file or want to add badges, preview images, or issue templates.
-```
 
 <p align="center">
   <a href="#top" style="font-size: 18px; padding: 8px 16px; display: inline-block; border: 1px solid #ccc; border-radius: 6px; text-decoration: none;">
