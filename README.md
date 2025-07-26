@@ -28,17 +28,6 @@ This frontend will:
 
 
 
-## 📁 Repository Structure
-
-otploginfrontend/
-│
-├── LICENSE
-├── README.md        # You are here
-├── public/          # Static assets
-├── pages/           # React Native routes (will be added)
-├── components/      # Reusable components (will be added)
-├── styles/          # Global and module CSS (will be added)
-└── ...
 
 
 ## ⚙️ Installation (To be added once code is live)
