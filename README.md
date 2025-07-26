@@ -1,6 +1,6 @@
 # 🔐 OTP Login Frontend
 
-**otploginfrontend** is a modern web application built using the [Next.js](https://nextjs.org/) framework. It is designed to interact with a FastAPI backend and a PostgreSQL database for secure OTP-based authentication.
+**otploginfrontend** is a modern web application built using the [React Native]([https://nextjs.org/](https://reactnative.dev/)) framework. It is designed to interact with a FastAPI backend and a PostgreSQL database for secure OTP-based authentication.
 
 > ⚠️ This repository currently contains setup and documentation. Source code will be added soon.
 
@@ -13,7 +13,7 @@ The goal of this project is to build a user-friendly and secure **OTP login syst
 - Users can use the OTP to log in securely
 
 This frontend will:
-- Be built using **Next.js**
+- Be built using **React Native**
 - Make API calls to a **FastAPI** backend
 - Display interactive login flows
 - Follow best practices for responsive and accessible UI
@@ -24,7 +24,7 @@ This frontend will:
 
 | Frontend | Backend | Database |
 |----------|---------|----------|
-| Next.js  | FastAPI | PostgreSQL |
+| React Native  | FastAPI | PostgreSQL |
 
 
 
@@ -35,7 +35,7 @@ otploginfrontend/
 ├── LICENSE
 ├── README.md        # You are here
 ├── public/          # Static assets
-├── pages/           # Next.js routes (will be added)
+├── pages/           # React Native routes (will be added)
 ├── components/      # Reusable components (will be added)
 ├── styles/          # Global and module CSS (will be added)
 └── ...
@@ -56,7 +56,7 @@ npm run dev
 
 ## 📌 Roadmap
 
-* [ ] Setup initial project structure with Next.js
+* [ ] Setup initial project structure with React Native
 * [ ] Design login and OTP verification UI
 * [ ] Connect with FastAPI backend
 * [ ] Add error handling and UI feedback
