@@ -57,14 +57,9 @@ npm run dev
 ## 🤝 How to Contribute
 
 We welcome contributions from everyone!
-If you'd like to contribute:
+If you'd like to contribute:Please read our [Contributing Guidelines](contributing.md) to get started.
 
-* Check for open issues or suggest a new one.
-* Fork the repository and create a branch for your feature or bugfix.
-* Submit a pull request once you're ready.
-
-Be sure to keep your changes clean, readable, and focused on one feature or fix at a time.
-
+---
 
 ## 📄 License
 
