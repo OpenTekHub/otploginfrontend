@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "welcome to opentekhub we are glad that you made your first contribution to our repo' first issue"
+        pr-message: "Thank you for opening an pr our reviewers will look into the pr shortly meanwhile feel free to explore the codebase of our project' first pull request"
